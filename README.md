@@ -47,6 +47,8 @@ A Java based web application built using Spring boot. Users can book a flight, s
 * Lombok installed in IDE.
 * MySQL database.
 
+### Screenshots :
+![home screen](https://github.com/user-attachments/assets/38e7a253-c766-44a9-9ebc-4cf050797a03)
 ### How to Run:
 
 * Before running the Application, you should update the database config inside the [application.properties](https://github.com/Pramod082002/Flight_Booking_System/blob/main/src/main/resources/application.properties) file. 
