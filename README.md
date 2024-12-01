@@ -48,7 +48,22 @@ A Java based web application built using Spring boot. Users can book a flight, s
 * MySQL database.
 
 ### Screenshots :
+User Registration :
+![New User Registration](https://github.com/user-attachments/assets/a2175cc7-0975-445e-9ffa-d34021e9d6f5)
+
+User Dashboard : 
+![customer dashboard](https://github.com/user-attachments/assets/2ffa0e59-897a-4775-b603-1c4896473c56)
+
+Login Page:
 ![home screen](https://github.com/user-attachments/assets/38e7a253-c766-44a9-9ebc-4cf050797a03)
+
+Admin Flight Scheduling:
+![admin Flight schedules](https://github.com/user-attachments/assets/2e7f479c-95f7-469f-8065-6bb33d366294)
+
+Admin View Booking :
+![All bookings from Admin](https://github.com/user-attachments/assets/04cce9f3-759c-4f3d-8664-05487a7a90e3)
+
+
 ### How to Run:
 
 * Before running the Application, you should update the database config inside the [application.properties](https://github.com/Pramod082002/Flight_Booking_System/blob/main/src/main/resources/application.properties) file. 
